@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Points of Interest</string>
+    <string name="savePoint">Save Point</string>
+    <string name="btnSave">Save</string>
+    <string name="tvN">Name: </string>
+    <string name="tvT">Type: </string>
+    <string name="tvDesc">Description: </string>
+    <string name="MenuSave">Save</string>
+    <string name="Pref">Preferences</string>
+
+</resources>
